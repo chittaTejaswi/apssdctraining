@@ -1,0 +1,18 @@
+body{
+	background-color: #91DCAA;
+}
+#main{
+	background-color: #61CF86;
+	margin: 10%;
+	display: flex;
+	justify-content: space-around;
+	border-radius: 4%;
+}
+.sub{
+	background-color: #39784E;
+	width: 25%;
+	margin: 4%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 4px 4px 5px 5px;
+}
